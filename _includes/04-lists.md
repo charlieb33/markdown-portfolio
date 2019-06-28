@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+Some of my favorite things include:
+* Movies
+  * Action/Adventure
+  * Comedy
+  * Horror
+* Video Games
+  * Action/Adventure
+  * Platformer
+  * Horror
+* Music
+  * Rock
+  * Alternative
