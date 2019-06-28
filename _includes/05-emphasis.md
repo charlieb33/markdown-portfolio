@@ -1,0 +1,1 @@
+I am *independent* and **detail-oriented**. I am a a _fast learner_ and a __team player__. I have experience with various programming languages, such as: *HTML*, __CSS__, **JavaScript**, *Java*, and _Python_.
