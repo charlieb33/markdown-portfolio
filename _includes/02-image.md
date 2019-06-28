@@ -1,0 +1,1 @@
+![Picture of Charles Beach](https://media.licdn.com/dms/image/C4D03AQErJYnTsnr9Xg/profile-displayphoto-shrink_200_200/0?e=1567036800&v=beta&t=9llmVVs_OY3yVQhhly65xPdXi9w1el_dIB26TKmQm74)
